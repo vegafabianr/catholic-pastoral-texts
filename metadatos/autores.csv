@@ -1,0 +1,57 @@
+author_id,author,gender,birth_year,birth_city,birth_country,death_year,death_city,death_country,dhcj,institution,the_americas,death_period,source
+agreda,María de Jesús de Ágreda,Mujer,1602,Ágreda (Soria),España,1665,Ágreda (Soria),España,No es jesuita,Concepcionista,No,1651-1700,jesuit-missionary-libraries
+agustin,Agustín de Hipona,Hombre,354,Tagaste,Argelia,430,Hipona,Argelia,No es jesuita,Clero secular,No,-1500,jesuit-missionary-libraries
+andrade,Alonso de Andrade,Hombre,c. 1590,Toledo,España,1672,Madrid,España,333,Jesuita,No,1651-1700,jesuit-missionary-libraries
+rodriguez,Alonso Rodríguez,Hombre,1538,Valladolid,España,1616,Sevilla,España,6992,Jesuita,No,1601-1650,jesuit-missionary-libraries
+guevara,Antonio Guevara,Hombre,c. 1480,Treceño (Cantabria),España,1545,Mondoñedo (Lugo),España,No es jesuita,Franciscano,No,1501-1550,jesuit-missionary-libraries
+rosignoli,Carlo Gregorio Rosignoli,Hombre,1631,Borgomanero (Novara),Italia,1707,Milán,Italia,7046,Jesuita,No,1701-1750,jesuit-missionary-libraries
+sales,Francisco de Sales,Hombre,1567,Thorens-Glières (Alta Saboya),Francia,1622,Lyon,Francia,No es jesuita,Clero secular,No,1601-1650,jesuit-missionary-libraries
+figuera,Gaspar de la Figuera,Hombre,1578,Calatayud (Zaragoza),España,1637,Soria,España,3053,Jesuita,,1601-1650,jesuit-missionary-libraries
+pinamonti,Giovanni Pietro Pinamonti,Hombre,1632,Pistoya,Italia,1703,Orta (Novara),Italia,6473,Jesuita,No,1701-1750,jesuit-missionary-libraries
+loyola,Ignacio de Loyola,Hombre,1491,Azpeitia (Guipúzcoa),España,1556,Roma,Italia,3412,Jesuita,No,1551-1600,jesuit-missionary-libraries
+ripalda,Jerónimo de Ripalda,Hombre,1535,,,1618,,,,Jesuita,,1601-1650,jesuit-missionary-libraries
+casani,José Cassani,Hombre,1673,Madrid,España,1750,Alcalá de Henares (Madrid),España,1627,Jesuita,No,1701-1750,jesuit-missionary-libraries
+crisostomo,Juan Crisóstomo,Hombre,347,Antioquía,Turquía,407,Comana Pontica,Turquía,No es jesuita,Clero secular,No,-1500,jesuit-missionary-libraries
+avila,Juan de Ávila,Hombre,1500,Almodóvar del Campo (Ciudad Real),España,1569,Montilla (Córdoba),España,No es jesuita,Clero secular,No,1551-1600,jesuit-missionary-libraries
+nieremberg,Juan Eusebio Nieremberg,Hombre,1595,Madrid,España,1658,Madrid,España,5875,Jesuita,No,1651-1700,jesuit-missionary-libraries
+parra,Juan Martínez de la Parra,Hombre,c. 1652,Puebla,México,1701,México,México,5297,Jesuita,Sí,1701-1750,jesuit-missionary-libraries
+granada,Luis de Granada,Hombre,1504,Granada,España,1588,Lisboa,Portugal,No es jesuita,Dominico,No,1551-1600,jesuit-missionary-libraries
+palma,Luis de la Palma,Hombre,c. 1560,Toledo,España,1641,Madrid,España,6134,Jesuita,No,1601-1650,jesuit-missionary-libraries
+puente,Luis de la Puente,Hombre,1554,Valladolid,España,1624,Valladolid,España,No está,Jesuita,No,1601-1650,jesuit-missionary-libraries
+segneri,Paolo Segneri,Hombre,1624,Nettuno (Roma),Italia,1694,Roma,Italia,7353,Jesuita,No,1651-1700,jesuit-missionary-libraries
+ribadeneira,Pedro de Ribadeneira,Hombre,1526,Toledo,España,1611,Madrid,España,6881,Jesuita,No,1601-1650,jesuit-missionary-libraries
+belarmino,Roberto Belarmino,Hombre,1542,Montepulciano (Siena),Italia,1621,Roma,Italia,802,Jesuita,No,1601-1650,jesuit-missionary-libraries
+teresa,Teresa de Ávila,Mujer,1515,Ávila,España,1582,Alba de Tormes (Salamanca),España,No es jesuita,Carmelita,No,1551-1600,jesuit-missionary-libraries
+kempis,Tomás de Kempis,Hombre,1380,Kempen,Alemania,1471,Zwolle,Países Bajos,No es jesuita,Agustino,No,-1500,jesuit-missionary-libraries
+cepari,Virgilio Cepari,Hombre,1564,Panicale (Perusa),Italia,1630,Roma,Italia,1714,Jesuita,No,1601-1650,jesuit-missionary-libraries
+fleury,Claude Fleury,Hombre,1640,París,Francia,1723,París,Francia,No es jesuita,Cisterciense,No,1701-1750,jesuit-missionary-libraries
+samaniego,José Ximénez Samaniego,Hombre,1622,Madrid,España,1692,Coria (Cáceres),España,,Franciscano,No,1651-1700,wikidata:Q64763190
+almeida,Teodoro de Almeida,Hombre,1722,Lisboa,Portugal,1804,Lisboa,Portugal,,Oratoriano,No,1751-,wikidata:Q9085946
+malon,Pedro Malón de Chaide,Hombre,c. 1530,Cascante (Navarra),España,1589,Barcelona,España,,Agustino,No,1551-1600,wikidata:Q1983740
+zarate,Hernando de Zárate,Hombre,,,España,,,,,Agustino,No,,BNE heading
+cabrera,Alonso de Cabrera,Hombre,c. 1549,,España,1598,,España,,Dominico,,1551-1600,wikidata:Q16145473
+hernandez,Francisco Javier Hernández,Hombre,1714,Villarroya de la Sierra (Zaragoza),España,1777,Roma,Italia,,Jesuita,,1751-,wikidata:Q65159119; BNE
+cisneros,García Jiménez de Cisneros,Hombre,c. 1455,Cisneros (Palencia),España,1510,Montserrat,España,,Benedictino,No,1501-1550,wikidata:Q5522100
+estella,Diego de Estella,Hombre,1524,Estella (Navarra),España,1578,Salamanca,España,,Franciscano,No,1551-1600,wikidata:Q325647
+godinez,Miguel Godínez (Michael Wadding),Hombre,1591,Waterford,Irlanda,1644,México,México,,Jesuita,Sí,1601-1650,wikidata:Q6835164
+gracian,Jerónimo Gracián,Hombre,1545,Valladolid,España,1614,Bruselas,Bélgica,,Carmelita,No,1601-1650,wikidata:Q3190926
+climaco,Juan Clímaco,Hombre,c. 579,,,c. 649,Sinaí,Egipto,,Monje,No,-1500,wikidata:Q317072
+isla,José Francisco de Isla,Hombre,1703,Vidanes (León),España,1781,Bolonia,Italia,,Jesuita,No,1751-,wikidata:Q1370880
+cruz,Juan de la Cruz,Hombre,1542,Fontiveros (Ávila),España,1591,Úbeda (Jaén),España,,Carmelita,No,1551-1600,wikidata:Q190388; BNE
+angeles,Juan de los Ángeles,Hombre,1536,,España,1609,,España,,Franciscano,No,1601-1650,wikidata:Q9016188
+leon,Luis de León,Hombre,1527,Belmonte (Cuenca),España,1591,Madrigal de las Altas Torres (Ávila),España,,Agustino,No,1551-1600,wikidata:Q450246
+talavera,Hernando de Talavera,Hombre,c. 1428,Talavera de la Reina (Toledo),España,1507,Granada,España,,Jerónimo,No,1501-1550,wikidata:Q559368
+venegas,Alejo Venegas,Hombre,c. 1497,Camarena (Toledo),España,1562,Toledo,España,,Laico católico,No,1551-1600,wikidata:Q5689521
+osuna,Francisco de Osuna,Hombre,c. 1492,Osuna (Sevilla),España,c. 1540,,,,Franciscano,No,1501-1550,wikidata:Q921537
+madrid,Alonso de Madrid,Hombre,c. 1480,Madrid,España,1542,,,,Franciscano,No,1501-1550,wikidata:Q5670348
+munoz,Luis Muñoz,Hombre,1594,Madrid,España,1646,,,,,,1601-1650,wikidata:Q108705480
+yepes,Diego de Yepes,Hombre,1529,Yepes (Toledo),España,1613,Tarazona (Zaragoza),España,,Jerónimo,No,1601-1650,wikidata:Q5806851
+ribera,Francisco de Ribera,Hombre,1536,Villacastín (Segovia),España,1591,Salamanca,España,,Jesuita,No,1551-1600,wikidata:Q953184; BNE
+carvajal,Micael de Carvajal,Hombre,1501,Plasencia (Cáceres),España,1578,,,,Laico católico,,1551-1600,wikidata:Q21546240
+hurtado-toledo,Luis Hurtado de Toledo,Hombre,1523,Toledo,España,c. 1590,,,,Clero secular,No,1551-1600,wikidata:Q5983676
+varios,Varios autores,-,,,,,,,,,,,not confirmed
+montesino,Ambrosio Montesino,Hombre,1440,Huete (Cuenca),España,1514,,,,Franciscano,No,1501-1550,wikidata:Q5672208
+vegas,Damián de Vegas,Hombre,,,España,,,,,,,,BNE heading
+torrubia,Pedro Tomás Torrubia,Hombre,,,,,,,,Jesuita,,,BNE heading
+battista-da-crema,Battista da Crema,Hombre,,Crema,Italia,1534,Milán,Italia,No es jesuita,Dominico,No,1501-1550,USTC 812855; SBN IT\ICCU\CNCE\004632
+euquerio,Euquerio de Lyon,Hombre,,,,,Lyon,Francia,No es jesuita,Clero secular,No,-1500,USTC 438619

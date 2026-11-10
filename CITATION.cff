@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "A corpus of early modern Catholic texts in Spanish, from nineteenth- and twentieth-century editions"
+type: dataset
+authors:
+  - family-names: "Vega"
+    given-names: "Fabián R."
+repository-code: "https://github.com/vegafabianr/catholic-pastoral-texts"
+license: CC-BY-4.0
