@@ -108,6 +108,7 @@ El notebook [`primeros-pasos.ipynb`](primeros-pasos.ipynb) sigue con más ejempl
 | `metadatos/` | La obra, su autor y su primera edición (`textos.csv`), la edición usada (`ediciones.csv`), los autores (`autores.csv`), todo junto en `catalogo.xlsx` |
 | `primeros-pasos.ipynb` | El tutorial de esta página |
 | `ocr-piloto/` | Los notebooks que van del PDF a las dos versiones del texto |
+| `cartography/` | Un juego exploratorio: un mapa de lo que hacen los pasajes del corpus, con embeddings |
 | `registro-modernizacion.csv.gz`, `registro-correcciones.csv` | Cada palabra que cambió la modernización |
 
 ### Método
@@ -234,6 +235,7 @@ The notebook [`primeros-pasos.ipynb`](primeros-pasos.ipynb) has more examples: s
 | `metadatos/` | The work, its author and its first edition (`textos.csv`), the edition used (`ediciones.csv`), the authors (`autores.csv`), all together in `catalogo.xlsx` |
 | `primeros-pasos.ipynb` | The tutorial of this page |
 | `ocr-piloto/` | The notebooks that go from the PDF to the two versions of the text |
+| `cartography/` | An exploratory game: a map of what the passages of the corpus do, with embeddings |
 | `registro-modernizacion.csv.gz`, `registro-correcciones.csv` | Every word that the modernization changed |
 
 ### Method

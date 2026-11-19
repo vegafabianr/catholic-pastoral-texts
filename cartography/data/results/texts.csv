@@ -1,0 +1,152 @@
+text_id,title,author,order,century,year,n,score,author_id,short,work_id,plot_year
+agreda-cartas-a-felipe-iv-tomo1,Cartas a Felipe IV,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1665.0,549,0.17899828,agreda,Ágreda,agreda-cartas-felipe-iv,1665.0
+agreda-cartas-a-felipe-iv-tomo2,Cartas a Felipe IV,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1665.0,1014,0.31185204,agreda,Ágreda,agreda-cartas-felipe-iv,1665.0
+agreda-mistica-ciudad-de-dios-tomo1,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,69,0.54892266,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo2,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,534,0.17403568,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo3,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,553,0.4368119,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo4,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,657,0.3682079,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo5,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,599,-0.11119498,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo6,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,464,0.049938966,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agreda-mistica-ciudad-de-dios-tomo7,Mística Ciudad de Dios,María de Jesús de Ágreda,Concepcionista,Siglo XVII,1670.0,619,-0.021379912,agreda,Ágreda,agreda-mistica-ciudad,1670.0
+agustin-confesiones,Confesiones,Agustín de Hipona,Clero secular,Antes de 1500,1470.0,432,0.72615486,agustin,Hipona,agustin-confesiones,1480.0
+almeida-tesoro-de-paciencia,Tesoro de paciencia,Teodoro de Almeida,Otros,Siglo XVIII,1768.0,120,0.70252955,almeida,Almeida,almeida-tesoro-paciencia,1768.0
+alonso-de-madrid-arte-para-servir-a-dios,Arte para servir a Dios,Alonso de Madrid,Franciscano,Siglo XVI,1521.0,144,0.23847069,madrid,Madrid,madrid-arte-servir,1521.0
+alonso-de-madrid-espejo-de-ilustres-personas,Espejo de ilustres personas,Alonso de Madrid,Franciscano,Siglo XVI,1524.0,45,-0.5223743,madrid,Madrid,madrid-espejo,1524.0
+andrade-meditaciones-diarias-tomo1,Meditaciones diarias,Alonso de Andrade,Jesuita,Siglo XVII,1660.0,295,0.29070762,andrade,Andrade,andrade-meditaciones-diarias,1660.0
+andrade-meditaciones-diarias-tomo2,Meditaciones diarias,Alonso de Andrade,Jesuita,Siglo XVII,1660.0,305,0.19473204,andrade,Andrade,andrade-meditaciones-diarias,1660.0
+andrade-meditaciones-diarias-tomo3,Meditaciones diarias,Alonso de Andrade,Jesuita,Siglo XVII,1660.0,318,0.32197237,andrade,Andrade,andrade-meditaciones-diarias,1660.0
+andrade-meditaciones-diarias-tomo4,Meditaciones diarias,Alonso de Andrade,Jesuita,Siglo XVII,1660.0,321,0.13337278,andrade,Andrade,andrade-meditaciones-diarias,1660.0
+battista-da-crema-tratado-de-la-victoria-de-si-mismo,Tratado de la victoria de sí mismo,Battista da Crema,Dominico,Siglo XVI,1531.0,94,-0.11388888,battista-da-crema,Crema,cano-victoria-de-si-mismo,1531.0
+belarmino-declaracion-copiosa-de-la-doctrina-cristiana,Declaración copiosa de la doctrina cristiana,Roberto Belarmino,Jesuita,Siglo XVII,1598.0,160,-0.9225604,belarmino,Belarmino,belarmino-declaracion,1598.0
+cabrera-consideraciones-sobre-los-evangelios-de-adviento,Consideraciones sobre los Evangelios de Adviento,Alonso de Cabrera,Dominico,Siglo XVI,1609.0,757,-0.2592184,cabrera,Cabrera,cabrera-adviento,1609.0
+cabrera-consideraciones-sobre-los-evangelios-de-la-cuaresma,Consideraciones sobre los Evangelios de la Cuaresma,Alonso de Cabrera,Dominico,Siglo XVI,1601.0,1565,-0.24747692,cabrera,Cabrera,cabrera-cuaresma,1601.0
+cabrera-sermon-a-las-honras-de-felipe-ii,Sermón a las honras de Felipe II,Alonso de Cabrera,Dominico,Siglo XVI,1598.0,58,-0.4180464,cabrera,Cabrera,cabrera-honras-felipe-ii,1598.0
+carvajal-las-cortes-de-la-muerte,Las Cortes de la Muerte,Micael de Carvajal; Luis Hurtado de Toledo,Otros,Siglo XVI,1557.0,157,-0.29438433,carvajal,Carvajal,carvajal-cortes-muerte,1557.0
+cepari-vida-de-san-luis-gonzaga,Vida de San Luis Gonzaga,Virgilio Cepari,Jesuita,Siglo XVII,1606.0,393,0.15503424,cepari,Cepari,cepari-vida-gonzaga,1606.0
+cisneros-ejercitatorio-de-la-vida-espiritual,Ejercitatorio de la vida espiritual,García Jiménez de Cisneros,Otros,Siglo XVI,1500.0,238,0.2870727,cisneros,Cisneros,cisneros-ejercitatorio,1500.0
+climaco-escala-espiritual,Escala espiritual,Juan Clímaco,Otros,Antes de 1500,1633.0,411,0.13903633,climaco,Clímaco,climaco-escala,1633.0
+crisostomo-los-seis-libros-sobre-el-sacerdocio,Los seis libros sobre el sacerdocio,Juan Crisóstomo,Clero secular,Antes de 1500,1525.0,170,-0.3840112,crisostomo,Crisóstomo,crisostomo-sacerdocio,1525.0
+estella-meditaciones-devotisimas-del-amor-de-dios,Meditaciones devotísimas del amor de Dios,Diego de Estella,Franciscano,Siglo XVI,1576.0,526,1.0450195,estella,Estella,estella-meditaciones,1576.0
+euquerio-carta-de-euquerio,Carta de Euquerio,Euquerio de Lyon,Clero secular,Antes de 1500,1485.0,35,0.18299566,euquerio,Lyon,granada-carta-euquerio,1485.0
+figuera-suma-espiritual,Suma espiritual,Gaspar de la Figuera,Jesuita,Siglo XVII,1634.0,219,0.6124449,figuera,la Figuera,figuera-suma,1634.0
+fleury-catecismo-historico,Catecismo histórico,Claude Fleury,Otros,Siglo XVIII,1683.0,95,-0.9366941,fleury,Fleury,fleury-catecismo,1683.0
+godinez-practica-de-la-teologia-mistica,Práctica de la teología mística,Miguel Godínez (Michael Wadding),Jesuita,Siglo XVII,1681.0,269,0.84558094,godinez,Godínez,godinez-teologia-mistica,1681.0
+gracian-los-caminos-de-la-perfeccion,Los caminos de la perfección,Jerónimo Gracián,Carmelita,Siglo XVII,1614.0,67,0.47454792,gracian,Gracián,gracian-caminos-perfeccion,1614.0
+guevara-epistolas-familiares,Epístolas familiares,Antonio Guevara,Franciscano,Siglo XVI,1539.0,529,-0.27238452,guevara,Guevara,guevara-epistolas,1539.0
+hernandez-el-alma-victoriosa-de-la-pasion-dominante,El alma victoriosa de la pasión dominante,Francisco Javier Hernández,Jesuita,Siglo XVIII,1758.0,124,-0.15027751,hernandez,Hernández,hernandez-alma-victoriosa,1758.0
+isla-cartas-de-juan-de-la-encina,Cartas de Juan de la Encina,José Francisco de Isla,Jesuita,Siglo XVIII,1758.0,85,0.06927044,isla,Isla,isla-cartas-encina,1758.0
+isla-cartas-familiares,Cartas familiares,José Francisco de Isla,Jesuita,Siglo XVIII,1785.0,924,0.5181808,isla,Isla,isla-cartas-familiares,1785.0
+isla-dia-grande-de-navarra,Día grande de Navarra,José Francisco de Isla,Jesuita,Siglo XVIII,1746.0,120,0.14041868,isla,Isla,isla-dia-grande,1746.0
+isla-fray-gerundio-de-campazas,Fray Gerundio de Campazas,José Francisco de Isla,Jesuita,Siglo XVIII,1758.0,890,-0.087338656,isla,Isla,isla-fray-gerundio,1758.0
+juan-de-avila-algunas-cartas-del-autor,Algunas cartas del autor,Juan de Ávila,Clero secular,Siglo XVI,1578.0,56,0.17399822,avila,Ávila,avila-cartas-ineditas,1578.0
+juan-de-avila-audi-filia,"Audi, filia",Juan de Ávila,Clero secular,Siglo XVI,1556.0,503,-0.043443654,avila,Ávila,avila-audi-filia,1556.0
+juan-de-avila-avisos-y-reglas,Avisos y reglas,Juan de Ávila,Clero secular,Siglo XVI,1588.0,20,-0.731886,avila,Ávila,avila-avisos-reglas,1588.0
+juan-de-avila-cinco-tratados-para-la-venida-del-espiritu-santo,Cinco tratados para la venida del Espíritu Santo,Juan de Ávila,Clero secular,Siglo XVI,1596.0,141,0.30098182,avila,Ávila,avila-tratados-espiritu,1596.0
+juan-de-avila-doctrina-admirable-a-un-mancebo,Doctrina admirable a un mancebo,Juan de Ávila,Clero secular,Siglo XVI,1618.0,25,0.9026928,avila,Ávila,avila-doctrina-mancebo,1618.0
+juan-de-avila-epistolario-espiritual,Epistolario espiritual,Juan de Ávila,Clero secular,Siglo XVI,1578.0,891,0.25242087,avila,Ávila,avila-epistolario,1578.0
+juan-de-avila-once-tratados-de-la-encarnacion,Once tratados de la Encarnación,Juan de Ávila,Clero secular,Siglo XVI,1596.0,331,0.3478471,avila,Ávila,avila-tratados-encarnacion,1596.0
+juan-de-avila-platicas-para-sacerdotes,Pláticas para sacerdotes,Juan de Ávila,Clero secular,Siglo XVI,1595.0,32,-0.7878008,avila,Ávila,avila-platicas,1595.0
+juan-de-avila-tratados-del-santisimo-sacramento,Tratados del Santísimo Sacramento,Juan de Ávila,Clero secular,Siglo XVI,1596.0,768,0.056772366,avila,Ávila,avila-tratados-sacramento,1596.0
+juan-de-la-cruz-cantico-espiritual,Cántico espiritual,Juan de la Cruz,Carmelita,Siglo XVI,1627.0,281,1.7872139,cruz,la Cruz,cruz-cantico,1627.0
+juan-de-la-cruz-cartas,Cartas,Juan de la Cruz,Carmelita,Siglo XVI,1641.0,34,0.8603158,cruz,la Cruz,cruz-cartas,1641.0
+juan-de-la-cruz-cautelas-y-avisos,Cautelas y Avisos,Juan de la Cruz,Carmelita,Siglo XVI,1650.0,62,0.60087067,cruz,la Cruz,cruz-cautelas-avisos,1650.0
+juan-de-la-cruz-llama-de-amor-viva-primera-redaccion,Llama de amor viva,Juan de la Cruz,Carmelita,Siglo XVI,1618.0,127,1.5059028,cruz,la Cruz,cruz-llama,1618.0
+juan-de-la-cruz-llama-de-amor-viva-segunda-redaccion,Llama de amor viva,Juan de la Cruz,Carmelita,Siglo XVI,1618.0,146,1.5542703,cruz,la Cruz,cruz-llama,1618.0
+juan-de-la-cruz-noche-oscura,Noche oscura,Juan de la Cruz,Carmelita,Siglo XVI,1618.0,164,1.4430232,cruz,la Cruz,cruz-noche,1618.0
+juan-de-la-cruz-poesias-y-consejos,Poesías y consejos,Juan de la Cruz,Carmelita,Siglo XVI,1618.0,25,1.1598382,cruz,la Cruz,cruz-poesias-consejos,1618.0
+juan-de-la-cruz-subida-del-monte-carmelo,Subida del Monte Carmelo,Juan de la Cruz,Carmelita,Siglo XVI,1618.0,405,0.84905845,cruz,la Cruz,cruz-subida,1618.0
+juan-de-los-angeles-como-el-alma-ha-de-traer-siempre-a-dios-delante-de-si,Cómo el alma ha de traer siempre a Dios delante de sí,Juan de los Ángeles,Franciscano,Siglo XVII,1603.0,86,0.7675391,angeles,los Ángeles,angeles-presencia-dios,1603.0
+juan-de-los-angeles-dialogos-de-la-conquista-del-reino-de-dios,Diálogos de la conquista del reino de Dios,Juan de los Ángeles,Franciscano,Siglo XVII,1595.0,360,0.40538868,angeles,los Ángeles,angeles-dialogos,1595.0
+juan-de-los-angeles-lucha-espiritual-y-amorosa-entre-dios-y-el-alma,Lucha espiritual y amorosa entre Dios y el alma,Juan de los Ángeles,Franciscano,Siglo XVII,1600.0,278,0.9725626,angeles,los Ángeles,angeles-lucha,1600.0
+juan-de-los-angeles-manual-de-vida-perfecta,Manual de vida perfecta,Juan de los Ángeles,Franciscano,Siglo XVII,1608.0,315,0.7261649,angeles,los Ángeles,angeles-manual,1608.0
+juan-de-los-angeles-soberanos-misterios-de-la-misa,Soberanos misterios de la misa,Juan de los Ángeles,Franciscano,Siglo XVII,1604.0,248,-0.1416663,angeles,los Ángeles,angeles-soberanos-misterios,1604.0
+juan-de-los-angeles-triunfos-del-amor-de-dios,Triunfos del amor de Dios,Juan de los Ángeles,Franciscano,Siglo XVII,1589.0,85,0.7271733,angeles,los Ángeles,angeles-triunfos,1589.0
+juan-de-los-angeles-vergel-espiritual-del-anima-religiosa,Vergel espiritual del ánima religiosa,Juan de los Ángeles,Franciscano,Siglo XVII,1610.0,264,0.06978234,angeles,los Ángeles,angeles-vergel,1610.0
+kempis-contemptus-mundi,Contemptus mundi,Tomás de Kempis,Agustino,Antes de 1500,1472.0,213,0.54031086,kempis,Kempis,kempis-contemptus-mundi-granada,1480.0
+loyola-ejercicios-espirituales,Ejercicios espirituales,Ignacio de Loyola,Jesuita,Siglo XVI,1548.0,100,-0.3904961,loyola,Loyola,loyola-ejercicios,1548.0
+luis-de-granada-breve-memorial-y-guia-de-lo-que-debe-hacer-el-cristiano,Breve memorial y guía de lo que debe hacer el cristiano,Luis de Granada,Dominico,Siglo XVI,1567.0,247,0.17291622,granada,Granada,granada-breve-memorial,1567.0
+luis-de-granada-compendio-de-la-doctrina-espiritual,Compendio de la doctrina espiritual,Luis de Granada,Dominico,Siglo XVI,1677.0,191,0.13434348,granada,Granada,granada-compendio-doctrina-espiritual,1677.0
+luis-de-granada-compendio-y-explicacion-de-la-doctrina-cristiana,Compendio y explicación de la doctrina cristiana,Luis de Granada,Dominico,Siglo XVI,1559.0,515,-0.84612507,granada,Granada,granada-compendio-doctrina-cristiana,1559.0
+luis-de-granada-guia-de-pecadores,Guía de pecadores,Luis de Granada,Dominico,Siglo XVI,1556.0,757,-0.29119757,granada,Granada,granada-guia-pecadores,1556.0
+luis-de-granada-introduccion-del-simbolo-de-la-fe,Introducción del símbolo de la fe,Luis de Granada,Dominico,Siglo XVI,1583.0,2535,-0.24825153,granada,Granada,granada-simbolo,1583.0
+luis-de-granada-libro-de-la-oracion-y-meditacion,Libro de la oración y meditación,Luis de Granada,Dominico,Siglo XVI,1554.0,924,0.14214446,granada,Granada,granada-oracion,1554.0
+luis-de-granada-memorial-de-la-vida-cristiana,Memorial de la vida cristiana,Luis de Granada,Dominico,Siglo XVI,1565.0,941,0.08968697,granada,Granada,granada-memorial,1565.0
+luis-de-granada-retorica-eclesiastica,Retórica eclesiástica,Luis de Granada,Dominico,Siglo XVI,1576.0,663,-0.417453,granada,Granada,granada-retorica,1576.0
+luis-de-granada-trece-sermones,Trece sermones,Luis de Granada,Dominico,Siglo XVI,1559.0,241,0.187516,granada,Granada,granada-trece-sermones,1559.0
+luis-de-granada-vida-de-fray-bartolome-de-los-martires,Vida de Fray Bartolomé de los Mártires,Luis de Granada,Dominico,Siglo XVI,1588.0,80,-0.4402,granada,Granada,granada-vida-bartolome,1588.0
+luis-de-granada-vida-del-padre-maestro-juan-de-avila,Vida del Padre Maestro Juan de Ávila,Luis de Granada,Dominico,Siglo XVI,1588.0,168,0.01617744,granada,Granada,granada-vida-avila,1588.0
+luis-de-la-palma-camino-espiritual-tomo1,Camino espiritual,Luis de la Palma,Jesuita,Siglo XVII,1625.0,435,-0.18611088,palma,la Palma,palma-camino,1625.0
+luis-de-la-palma-camino-espiritual-tomo2,Camino espiritual,Luis de la Palma,Jesuita,Siglo XVII,1625.0,573,-0.07597268,palma,la Palma,palma-camino,1625.0
+luis-de-la-palma-historia-de-la-sagrada-pasion,Historia de la Sagrada Pasión,Luis de la Palma,Jesuita,Siglo XVII,1624.0,326,-0.17048277,palma,la Palma,palma-pasion,1624.0
+luis-de-la-puente-la-perfeccion-en-las-enfermedades,La perfección en las enfermedades,Luis de la Puente,Jesuita,Siglo XVII,1672.0,56,-0.06603849,puente,la Puente,puente-enfermedades,1672.0
+luis-de-la-puente-meditaciones-espirituales-tomo1,Meditaciones espirituales,Luis de la Puente,Jesuita,Siglo XVII,1605.0,712,-0.005028836,puente,la Puente,puente-meditaciones,1605.0
+luis-de-la-puente-meditaciones-espirituales-tomo2,Meditaciones espirituales,Luis de la Puente,Jesuita,Siglo XVII,1605.0,1127,-0.040442836,puente,la Puente,puente-meditaciones,1605.0
+luis-de-la-puente-meditaciones-espirituales-tomo3,Meditaciones espirituales,Luis de la Puente,Jesuita,Siglo XVII,1605.0,945,0.26084498,puente,la Puente,puente-meditaciones,1605.0
+luis-de-la-puente-sentimientos-espirituales,Sentimientos espirituales,Luis de la Puente,Jesuita,Siglo XVII,1671.0,108,0.3244114,puente,la Puente,puente-sentimientos,1671.0
+luis-de-la-puente-vida-del-p-baltasar-alvarez,Vida del P. Baltasar Álvarez,Luis de la Puente,Jesuita,Siglo XVII,1615.0,632,0.20069623,puente,la Puente,puente-vida-alvarez,1615.0
+luis-de-leon-de-los-nombres-de-cristo,De los nombres de Cristo,Luis de León,Agustino,Siglo XVI,1583.0,667,0.1777028,leon,León,leon-nombres-cristo,1583.0
+luis-de-leon-exposicion-del-libro-de-job,Exposición del Libro de Job,Luis de León,Agustino,Siglo XVI,1779.0,912,-0.2056813,leon,León,leon-job,1779.0
+luis-de-leon-la-perfecta-casada,La perfecta casada,Luis de León,Agustino,Siglo XVI,1583.0,164,0.01772434,leon,León,leon-perfecta-casada,1583.0
+luis-de-leon-poesias,Poesías,Luis de León,Agustino,Siglo XVI,1631.0,224,0.74839747,leon,León,leon-poesias,1631.0
+luis-de-leon-traduccion-y-declaracion-del-cantar-de-los-cantares,Traducción y declaración del Cantar de los Cantares,Luis de León,Agustino,Siglo XVI,1798.0,172,1.1659726,leon,León,leon-cantares,1798.0
+malon-la-conversion-de-la-magdalena,La conversión de la Magdalena,Pedro Malón de Chaide,Agustino,Siglo XVI,1588.0,583,0.053971257,malon,Chaide,malon-conversion-magdalena,1588.0
+montesino-cancionero-de-diversas-obras,Cancionero de diversas obras,Ambrosio Montesino,Franciscano,Siglo XVI,1508.0,177,0.6259522,montesino,Montesino,montesino-cancionero,1508.0
+munoz-vida-y-virtudes-de-juan-de-avila-fragmentos,Vida y virtudes de Juan de Ávila (fragmentos),Luis Muñoz,Otros,Siglo XVII,1635.0,585,0.04587609,munoz,Muñoz,munoz-vida-avila,1635.0
+nieremberg-aficion-y-amor-de-maria,Afición y amor de María,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1630.0,182,0.44414788,nieremberg,Nieremberg,nieremberg-aficion-maria,1630.0
+nieremberg-aprecio-y-estima-de-la-divina-gracia,Aprecio y estima de la divina gracia,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1640.0,962,0.114366956,nieremberg,Nieremberg,nieremberg-aprecio-gracia,1640.0
+nieremberg-avisos-espirituales,Avisos espirituales,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1645.0,44,-0.16380396,nieremberg,Nieremberg,nieremberg-avisos,1645.0
+nieremberg-diferencia-entre-lo-temporal-y-eterno,Diferencia entre lo temporal y eterno,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1640.0,784,-0.19565597,nieremberg,Nieremberg,nieremberg-diferencia,1640.0
+nieremberg-flores-espirituales,Flores espirituales,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1639.0,31,-1.0198704,nieremberg,Nieremberg,nieremberg-flores,1639.0
+nieremberg-practica-del-catecismo-romano,Práctica del Catecismo Romano,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1640.0,291,-1.0040567,nieremberg,Nieremberg,nieremberg-catecismo,1640.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo1,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1306,-0.13518852,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo2,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1218,-0.28580776,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo3,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1148,-0.06898816,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo4,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1138,0.058809035,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo5,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1119,-0.13603105,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo6,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1093,-0.21244723,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo7,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,800,-0.033216674,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo8,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,1421,-0.15117984,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-varones-ilustres-de-la-compania-de-jesus-tomo9,Varones ilustres de la Compañía de Jesús,Juan Eusebio Nieremberg; Alonso de Andrade; José Cassani,Jesuita,Siglo XVII,1643.0,993,-0.10700303,nieremberg,Nieremberg,varones-ilustres,1643.0
+nieremberg-vida-de-san-francisco-de-borja,Vida de San Francisco de Borja,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1644.0,824,-0.2266194,nieremberg,Nieremberg,nieremberg-vida-borja,1644.0
+nieremberg-vida-de-santa-teresa-de-jesus,Vida de Santa Teresa de Jesús,Juan Eusebio Nieremberg,Jesuita,Siglo XVII,1658.0,69,0.53767765,nieremberg,Nieremberg,nieremberg-vida-teresa,1658.0
+osuna-tercer-abecedario-espiritual,Tercer abecedario espiritual,Francisco de Osuna,Franciscano,Siglo XVI,1527.0,880,0.4619693,osuna,Osuna,osuna-tercer-abecedario,1527.0
+parra-luz-de-verdades-catolicas-tomo1,Luz de verdades católicas,Juan Martínez de la Parra,Jesuita,Siglo XVIII,1690.0,424,-0.034359977,parra,la Parra,parra-luz-verdades,1690.0
+parra-luz-de-verdades-catolicas-tomo2,Luz de verdades católicas,Juan Martínez de la Parra,Jesuita,Siglo XVIII,1690.0,643,-0.70791805,parra,la Parra,parra-luz-verdades,1690.0
+pinamonti-breves-meditaciones-sobre-los-novisimos,Breves meditaciones sobre los Novísimos,Giovanni Pietro Pinamonti,Jesuita,Siglo XVIII,1703.0,26,-0.439861,pinamonti,Pinamonti,pinamonti-novisimos,1703.0
+pinamonti-el-director-de-las-almas,El director de las almas,Giovanni Pietro Pinamonti,Jesuita,Siglo XVIII,1705.0,201,-0.42017728,pinamonti,Pinamonti,pinamonti-director,1705.0
+ribadeneira-historia-eclesiastica-del-cisma-de-inglaterra,Historia eclesiástica del Cisma de Inglaterra,Pedro de Ribadeneira,Jesuita,Siglo XVII,1588.0,692,-0.9566139,ribadeneira,Ribadeneira,ribadeneira-cisma,1588.0
+ribadeneira-tratado-de-la-tribulacion,Tratado de la tribulación,Pedro de Ribadeneira,Jesuita,Siglo XVII,1589.0,354,-0.6329644,ribadeneira,Ribadeneira,ribadeneira-tribulacion,1589.0
+ribadeneira-tratado-del-principe-cristiano,Tratado del príncipe cristiano,Pedro de Ribadeneira,Jesuita,Siglo XVII,1594.0,534,-1.264077,ribadeneira,Ribadeneira,ribadeneira-principe,1594.0
+ribadeneira-vida-del-padre-ignacio-de-loyola,Vida del Padre Ignacio de Loyola,Pedro de Ribadeneira,Jesuita,Siglo XVII,1572.0,639,-0.47335204,ribadeneira,Ribadeneira,ribadeneira-vida-ignacio,1572.0
+ribadeneira-vida-del-padre-maestro-diego-lainez,Vida del Padre Maestro Diego Laínez,Pedro de Ribadeneira,Jesuita,Siglo XVII,1594.0,218,-0.6606461,ribadeneira,Ribadeneira,ribadeneira-vida-lainez,1594.0
+ribera-vida-de-santa-teresa-de-jesus,Vida de Santa Teresa de Jesús,Francisco de Ribera,Jesuita,Siglo XVI,1590.0,741,0.51595527,ribera,Ribera,ribera-vida-teresa,1590.0
+ripalda-catecismo-y-exposicion-breve-de-la-doctrina-cristiana,Catecismo y exposición breve de la doctrina cristiana,Jerónimo de Ripalda,Jesuita,Siglo XVII,1591.0,36,-1.2580439,ripalda,Ripalda,ripalda-catecismo,1591.0
+rodriguez-ejercicio-de-perfeccion-y-virtudes-cristianas-tomo1,Ejercicio de perfección y virtudes cristianas,Alonso Rodríguez,Jesuita,Siglo XVII,1609.0,825,-0.0753598,rodriguez,Rodríguez,rodriguez-ejercicio,1609.0
+rodriguez-ejercicio-de-perfeccion-y-virtudes-cristianas-tomo2,Ejercicio de perfección y virtudes cristianas,Alonso Rodríguez,Jesuita,Siglo XVII,1609.0,810,-0.016048778,rodriguez,Rodríguez,rodriguez-ejercicio,1609.0
+rodriguez-ejercicio-de-perfeccion-y-virtudes-cristianas-tomo3,Ejercicio de perfección y virtudes cristianas,Alonso Rodríguez,Jesuita,Siglo XVII,1609.0,652,-0.6811733,rodriguez,Rodríguez,rodriguez-ejercicio,1609.0
+rosignoli-verdades-eternas,Verdades eternas,Carlo Gregorio Rosignoli,Jesuita,Siglo XVIII,1688.0,349,0.11303318,rosignoli,Rosignoli,rosignoli-verdades,1688.0
+sales-introduccion-a-la-vida-devota,Introducción a la vida devota,Francisco de Sales,Clero secular,Siglo XVII,1609.0,363,0.46981862,sales,Sales,sales-introduccion-silva,1609.0
+samaniego-prologo-galeato,Prólogo galeato,José Ximénez Samaniego,Franciscano,Siglo XVII,1668.0,188,0.19657546,samaniego,Samaniego,samaniego-prologo-galeato,1668.0
+samaniego-relacion-de-la-vida-de-sor-maria-de-jesus,Relación de la vida de sor María de Jesús,José Ximénez Samaniego,Franciscano,Siglo XVII,1670.0,323,0.3044769,samaniego,Samaniego,samaniego-relacion-vida,1670.0
+segneri-el-cristiano-instruido-en-su-ley-tomo1,El cristiano instruido en su ley,Paolo Segneri,Jesuita,Siglo XVII,1686.0,918,-0.58879006,segneri,Segneri,segneri-cristiano,1686.0
+segneri-el-cristiano-instruido-en-su-ley-tomo2,El cristiano instruido en su ley,Paolo Segneri,Jesuita,Siglo XVII,1686.0,562,-0.5900725,segneri,Segneri,segneri-cristiano,1686.0
+segneri-el-cristiano-instruido-en-su-ley-tomo3,El cristiano instruido en su ley,Paolo Segneri,Jesuita,Siglo XVII,1686.0,651,-0.4576831,segneri,Segneri,segneri-cristiano,1686.0
+segneri-el-cristiano-instruido-en-su-ley-tomo4,El cristiano instruido en su ley,Paolo Segneri,Jesuita,Siglo XVII,1686.0,405,-0.35714847,segneri,Segneri,segneri-cristiano,1686.0
+talavera-breve-forma-de-confesar,Breve forma de confesar,Hernando de Talavera,Otros,Siglo XVI,1496.0,288,-1.2639651,talavera,Talavera,talavera-breve-forma,1496.0
+teresa-de-jesus-camino-de-perfeccion,Camino de perfección,Teresa de Ávila,Carmelita,Siglo XVI,1583.0,225,0.36803636,teresa,Ávila,teresa-camino,1583.0
+teresa-de-jesus-cartas,Cartas,Teresa de Ávila,Carmelita,Siglo XVI,1656.0,1007,0.17324506,teresa,Ávila,teresa-cartas,1656.0
+teresa-de-jesus-conceptos-del-amor-de-dios,Conceptos del amor de Dios,Teresa de Ávila,Carmelita,Siglo XVI,1611.0,66,1.0239936,teresa,Ávila,teresa-conceptos,1611.0
+teresa-de-jesus-constituciones,Constituciones,Teresa de Ávila,Carmelita,Siglo XVI,1581.0,29,-1.5591394,teresa,Ávila,teresa-constituciones,1581.0
+teresa-de-jesus-escritos-atribuidos-a-santa-teresa,Escritos atribuidos a Santa Teresa,Teresa de Ávila,Carmelita,Siglo XVI,1630.0,34,-0.5618504,teresa,Ávila,teresa-atribuidos,1630.0
+teresa-de-jesus-exclamaciones-del-alma-a-dios,Exclamaciones del alma a Dios,Teresa de Ávila,Carmelita,Siglo XVI,1588.0,30,0.6397397,teresa,Ávila,teresa-exclamaciones,1588.0
+teresa-de-jesus-las-moradas-o-castillo-interior,Las Moradas o Castillo interior,Teresa de Ávila,Carmelita,Siglo XVI,1588.0,233,1.1141657,teresa,Ávila,teresa-moradas,1588.0
+teresa-de-jesus-libro-de-la-vida,Libro de la Vida,Teresa de Ávila,Carmelita,Siglo XVI,1588.0,453,0.91387016,teresa,Ávila,teresa-vida,1588.0
+teresa-de-jesus-libro-de-las-fundaciones,Libro de las Fundaciones,Teresa de Ávila,Carmelita,Siglo XVI,1610.0,308,0.46858656,teresa,Ávila,teresa-fundaciones,1610.0
+teresa-de-jesus-modo-de-visitar-los-conventos,Modo de visitar los conventos,Teresa de Ávila,Carmelita,Siglo XVI,1613.0,25,-0.58648354,teresa,Ávila,teresa-modo-visitar,1613.0
+teresa-de-jesus-relaciones-espirituales,Relaciones espirituales,Teresa de Ávila,Carmelita,Siglo XVI,1630.0,85,1.21688,teresa,Ávila,teresa-relaciones,1630.0
+torrubia-practica-de-los-ejercicios-espirituales-de-san-ignacio,Práctica de los Ejercicios Espirituales de San Ignacio,Pedro Tomás Torrubia,Jesuita,Sin dato,1761.0,724,-0.4160256,torrubia,Torrubia,torrubia-practica-ejercicios,1761.0
+varios-romancero-y-cancionero-sagrados,Romancero y cancionero sagrados,Varios autores,Otros,Sin dato,,1018,0.5248011,varios,autores,romancero-sagrado,
+vegas-poesia-cristiana,Poesía cristiana,Damián de Vegas,Otros,Sin dato,1590.0,254,0.32219335,vegas,Vegas,vegas-poesia-cristiana,1590.0
+venegas-agonia-del-transito-de-la-muerte,Agonía del tránsito de la muerte,Alejo Venegas,Otros,Siglo XVI,1537.0,660,-0.52740324,venegas,Venegas,venegas-agonia,1537.0
+yepes-vida-de-santa-teresa-de-jesus,Vida de Santa Teresa de Jesús,Diego de Yepes,Otros,Siglo XVII,1606.0,639,0.48344576,yepes,Yepes,yepes-vida-teresa,1606.0
+zarate-discursos-de-la-paciencia-cristiana,Discursos de la paciencia cristiana,Hernando de Zárate,Agustino,Sin dato,1592.0,1188,-0.31615222,zarate,Zárate,zarate-discursos-paciencia,1592.0
