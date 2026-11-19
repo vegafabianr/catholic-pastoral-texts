@@ -2,7 +2,7 @@
 
 [Español](#español) · [English](#english)
 
-[![Abrir en Colab / Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vegafabianr/catholic-pastoral-texts/blob/main/primeros-pasos.ipynb)
+[![Abrir en Colab / Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vegafabianr/catholic-pastoral-texts/blob/main/primeros-pasos.ipynb) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24373812.svg)](https://doi.org/10.5281/zenodo.24373812)
 
 ## Español
 

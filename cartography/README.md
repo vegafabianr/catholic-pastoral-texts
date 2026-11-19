@@ -30,7 +30,7 @@ El método de `01` y `02` sigue a Alammar y Grootendorst, *Hands-On Large Langua
 Cada notebook tiene arriba, en la primera celda, la carpeta de los datos (`DATA_DIR`). Por defecto es `data/results/`, dentro de esta carpeta; si guardás los datos en otro lado, cambiá esa línea.
 
 - **En este repositorio**, en `data/results/`: los resultados livianos. Alcanzan para correr `06_figure.ipynb` sin calcular nada más.
-- **En Zenodo** ([descargar](ENLACE-ZENODO)): los archivos grandes, que hacen falta para correr `03` y `05` o para rehacer el mapa. Guardalos en `data/results/`.
+- **En Zenodo** ([descargar](https://doi.org/10.5281/zenodo.24373939)): los archivos grandes, que hacen falta para correr `03` y `05` o para rehacer el mapa. Guardalos en `data/results/`.
 
 | Archivo | Dónde | Qué tiene |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ The method of `01` and `02` follows Alammar and Grootendorst, *Hands-On Large La
 Each notebook sets the data folder (`DATA_DIR`) in its first cell. By default it is `data/results/`, inside this folder; if you keep the data elsewhere, change that line.
 
 - **In this repository**, in `data/results/`: the light results. They are enough to run `06_figure.ipynb` without computing anything else.
-- **On Zenodo** ([download](ENLACE-ZENODO)): the large files, needed to run `03` and `05` or to redo the map. Save them in `data/results/`.
+- **On Zenodo** ([download](https://doi.org/10.5281/zenodo.24373939)): the large files, needed to run `03` and `05` or to redo the map. Save them in `data/results/`.
 
 | File | Where | What it has |
 | --- | --- | --- |
